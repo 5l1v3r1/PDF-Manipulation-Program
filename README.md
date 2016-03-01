@@ -6,9 +6,13 @@ Este programa está escrito en Java usando la librería PDFReader. Su funcionali
 Ejemplo:
 
 SOLDADURAS REALIZADAS
+
 Ayer por la tarde.
+
 Hace tres semanas.
+
 No quedó bien la anterior.
+
 
 RESISTENCIA DEL METAL
 .
